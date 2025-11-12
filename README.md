@@ -1,6 +1,12 @@
 # 💫 About Me:
 
-<strong> Hi </strong> <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, <br>I'm Matilda Njau; an emerging Backend Engineer.<br><br>I am proficient in Node.js, Express, MongoDB and Redis for caching.<br>I am currently working on improving my skills; diving deep in my tech stack. <br>Look out for projects to showcase what I'm learning as I build.<br><br>Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
+### Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, 
+I'm Matilda Njau; an emerging Backend Engineer.
+
+I am proficient in Node.js, Express, MongoDB and Redis for caching.
+I am currently working on improving my skills; diving deep in my tech stack. Look out for projects to showcase what I'm learning as I build.
+
+Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
 
 ## Interests and Career Goals
 
