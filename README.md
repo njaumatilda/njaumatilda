@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi 👋, I'm Matilda Njau.<br>I am an aspiring Backend Engineer.<br><br>I am proficient in Node.js, Express, MongoDB and Redis for caching.<br>I am currently working on improving my skill; diving deep in my tech stack. <br>Look out for projects to showcase what I'm learning as I build.<br><br>Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
+Hi 👋, I'm Matilda Njau.<br>I am an emerging Backend Engineer.<br><br>I am proficient in Node.js, Express, MongoDB and Redis for caching.<br>I am currently working on improving my skill; diving deep in my tech stack. <br>Look out for projects to showcase what I'm learning as I build.<br><br>Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
 
 ## Interests and Career Goals
 
