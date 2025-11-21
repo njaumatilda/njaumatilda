@@ -31,7 +31,7 @@ Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
 
 # 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=njaumatilda)
+![Profile Views](https://komarev.com/ghpvc/?username=njaumatilda&color=red)
 
 ## 🏆 GitHub Trophies
 
