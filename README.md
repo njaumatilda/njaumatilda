@@ -10,7 +10,7 @@ Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
 
 ## Interests and Career Goals
 
-- Devops
+- DevOps
 - Testing
 - Artificial Intelligence
 
