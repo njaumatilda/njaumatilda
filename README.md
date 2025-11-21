@@ -29,6 +29,10 @@ Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
 ![](https://nirzak-streak-stats.vercel.app/?user=njaumatilda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=njaumatilda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=njaumatilda)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=njaumatilda&theme=radical&no-frame=true&no-bg=false&margin-w=4)
