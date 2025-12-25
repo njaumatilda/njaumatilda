@@ -6,7 +6,7 @@
 I am proficient in Node.js, Express, MongoDB and Redis for caching.<br>
 I am currently working on improving my skills; diving deep in my tech stack.<br> Look out for projects to showcase what I'm learning as I build.
 
-Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐
+Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨✨✨✨✨
 
 ## Interests and Career Goals
 
