@@ -17,6 +17,8 @@ I am currently sharpening my core tech stack to become an absolute NodeJS Backen
 
 Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨✨✨✨✨
 
+---
+
 📍 **Remote**  
 🌍 **East Africa (UTC +03:00)**  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:njaumatildawanjiru@gmail.com)
