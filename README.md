@@ -31,8 +31,7 @@ Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matilda-njau)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/matilda_njau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matilda-njau)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/matilda_njau)
 
 # 💻 Technologies and Tools:
 
