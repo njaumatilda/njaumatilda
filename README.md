@@ -8,16 +8,16 @@
 
 > Building scalable, reliable and resilient backend systems.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devopsgodd&color=red" alt="Profile Views" />
-</p>
-
 I am also familiar with TypeScript, NestJS, and PostgreSQL.<br>
 I am currently sharpening my core tech stack to become an absolute NodeJS Backend god.<br> 
 
 Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨✨✨✨✨
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devopsgodd&color=red" alt="Profile Views" />
+</p>
 
 📍 **Remote**  
 🌍 **East Africa (UTC +03:00)**  
