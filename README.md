@@ -19,9 +19,9 @@ Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨
   <img src="https://komarev.com/ghpvc/?username=devopsgodd&color=red" alt="Profile Views" />
 </p>
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:njaumatildawanjiru@gmail.com)
-🌍 **East Africa (UTC +03:00)**  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:njaumatildawanjiru@gmail.com)<br>
 📍 **Remote**  
+🌍 **East Africa (UTC +03:00)**  
 
 ## Interests and Technical Focus Goals
 
