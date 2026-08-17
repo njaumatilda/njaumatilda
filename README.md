@@ -15,7 +15,7 @@
 I am also familiar with TypeScript, NestJS, and PostgreSQL.<br>
 I am currently sharpening my core tech stack to become an absolute NodeJS Backend god.<br> 
 
-Fun fact: I am an absolute natural hair girl.⭐⭐⭐⭐⭐ and a foodie. ✨✨✨✨✨
+Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨✨✨✨✨
 
 📍 **Remote**  
 🌍 **East Africa (UTC +03:00)**  
