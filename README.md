@@ -3,7 +3,7 @@
 ## Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, 
 ### I'm Matilda Njau!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=An+Emerging+Backend+Engineer;NodeJS+%7CExpress+%7CMongoDB;AI+Enthusiast;Familiar+with+DevOps;Docker+%7CGithub+Actions+%7CTerraform+%7CAWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=An+Emerging+Backend+Engineer;NodeJS+%7CExpress+%7CMongoDB;An+AI+Enthusiast;Familiar+with+DevOps;Docker+%7CGithub+Actions+%7CTerraform+%7CAWS" alt="Typing SVG" />
 </div>
 
 > Building scalable, reliable and resilient backend systems.
