@@ -26,7 +26,8 @@ Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨
 ## Interests and Technical Focus Goals
 
 - System Design
-- Backend Architecture, Scaling & Performance
+- Backend Architecture
+- Scaling & Performance
 - Artificial Intelligence
 
 ## 🌐 Connect with me:
