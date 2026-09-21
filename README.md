@@ -23,7 +23,7 @@ Fun fact: I am an absolute natural hair girlie.⭐⭐⭐⭐⭐ and a foodie. ✨
 📍 **Remote**  
 🌍 **East Africa (UTC +03:00)**  
 
-## Interests and Technical Focus Goals
+## 🎯 Interests and Technical Focus Goals
 
 - System Design
 - Backend Architecture
